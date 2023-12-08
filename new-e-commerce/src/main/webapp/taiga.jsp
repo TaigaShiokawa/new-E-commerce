@@ -7,6 +7,7 @@ n<%@ page language="java" contentType="text/html; charset=UTF-8"
 <title>Insert title here</title>
 </head>
 <body>
+<header>E-Commerce</header>
 <h1>Test</h1>
 </body>
 </html>
